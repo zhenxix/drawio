@@ -1,11 +1,77 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="UmoXIzU9sOA4ca2LYqSI">
-    <mxGraphModel dx="918" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="646" dy="353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TRBixEu1Uu-TYHWcGNYj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-2" target="TRBixEu1Uu-TYHWcGNYj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="94" y="61" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.0695829845611" y="90.8095238095238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRBixEu1Uu-TYHWcGNYj-43">
+          <mxGeometry x="-0.2318" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-9" target="TRBixEu1Uu-TYHWcGNYj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRBixEu1Uu-TYHWcGNYj-47">
+          <mxGeometry x="0.0007" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-9" value="账号密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="61" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-12" target="TRBixEu1Uu-TYHWcGNYj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-12" value="获取CA证书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="61" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="386.7290416899182" y="90.8095238095238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-17" value="输入账号密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232" y="61" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-28" target="TRBixEu1Uu-TYHWcGNYj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRBixEu1Uu-TYHWcGNYj-45">
+          <mxGeometry x="-0.1021" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-28" value="是否机构证书" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="94" y="175" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-33" value="创建安全连接，并根据证书给予对应权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-33" target="TRBixEu1Uu-TYHWcGNYj-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TRBixEu1Uu-TYHWcGNYj-28" target="TRBixEu1Uu-TYHWcGNYj-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRBixEu1Uu-TYHWcGNYj-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRBixEu1Uu-TYHWcGNYj-48">
+          <mxGeometry x="-0.023" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
