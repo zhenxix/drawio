@@ -1,9 +1,120 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="amgsg2cmXLGSBfiXN3TA">
-    <mxGraphModel>
+    <mxGraphModel dx="678" dy="405" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RoacL6nhXJZOFMkuCAma-1" value="医院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-3" target="RoacL6nhXJZOFMkuCAma-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-3" value="档案区块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-4" target="RoacL6nhXJZOFMkuCAma-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-4" value="档案区块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-5" target="RoacL6nhXJZOFMkuCAma-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-5" value="档案区块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-6" value="档案区块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-10" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-11" value="智能合约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.186;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-10" target="RoacL6nhXJZOFMkuCAma-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-13" value="1.搭建区块链网络" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-12">
+          <mxGeometry x="-0.0488" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.52;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-1" target="RoacL6nhXJZOFMkuCAma-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-15" value="2.申请加入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-14">
+          <mxGeometry x="-0.0182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.847;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-11" target="RoacL6nhXJZOFMkuCAma-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-17" value="3.部署对应合约" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-16">
+          <mxGeometry x="-0.09" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-18" value="区块链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-43" value="6.上链" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-41">
+          <mxGeometry x="-0.1371" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-24" value="数据信息" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="405" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-26" target="RoacL6nhXJZOFMkuCAma-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-35" value="诊疗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-33">
+          <mxGeometry x="-0.1529" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-26" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-29" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.52;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-29" target="RoacL6nhXJZOFMkuCAma-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-34" value="5.查询患者档案信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-32">
+          <mxGeometry x="0.261" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.184;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-26" target="RoacL6nhXJZOFMkuCAma-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-37" value="4.查询个人档案信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-36">
+          <mxGeometry x="-0.1077" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RoacL6nhXJZOFMkuCAma-29" target="RoacL6nhXJZOFMkuCAma-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoacL6nhXJZOFMkuCAma-42" value="档案记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RoacL6nhXJZOFMkuCAma-39">
+          <mxGeometry x="-0.3765" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
